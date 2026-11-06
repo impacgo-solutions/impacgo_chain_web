@@ -1,11 +1,11 @@
 {
-    "name": "Impacgo HRMS",
-    "short_name": "Impacgo HRMS",
+    "name": "impacgo_chain",
+    "short_name": "impacgo_chain",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#3B6FEF",
-    "theme_color": "#3B6FEF",
-    "description": "Impacgo HRMS — workforce management system.",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
