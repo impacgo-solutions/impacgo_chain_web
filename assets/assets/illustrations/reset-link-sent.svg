@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" role="img" aria-labelledby="t">
+<title id="t">Reset link sent</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF0FF"/><stop offset="1" stop-color="#F7F9FF"/></linearGradient>
+<linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6F95F7"/><stop offset="1" stop-color="#3B6FEF"/></linearGradient>
+<linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFC766"/><stop offset="1" stop-color="#FF9F2E"/></linearGradient>
+<linearGradient id="ad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF9F2E"/><stop offset="1" stop-color="#E0821A"/></linearGradient>
+<linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF8A80"/><stop offset="1" stop-color="#EF5A5A"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4ADE9B"/><stop offset="1" stop-color="#1FB574"/></linearGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3A4766"/><stop offset="1" stop-color="#1F2940"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6F8FE"/></linearGradient>
+</defs>
+<path d="M58 150 C40 100 76 44 146 38 C214 32 270 60 278 116 C286 172 238 212 170 212 C102 212 74 194 58 150 Z" fill="url(#bg)"/>
+<circle cx="34" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="34" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="34" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="43" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="43" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="43" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="52" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="52" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="52" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="61" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="61" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="61" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/>
+<ellipse cx="160" cy="210" rx="96" ry="8" fill="#26324A" opacity="0.07"/>
+
+<rect x="96" y="100" width="128" height="84" rx="12" fill="#2A55C9"/>
+<path d="M96 108 L160 64 L224 108 Z" fill="#2A55C9" stroke="#2A55C9" stroke-width="8" stroke-linejoin="round"/>
+<g>
+<rect x="112" y="58" width="96" height="94" rx="10" fill="url(#card)" stroke="#E4E8F2" stroke-width="1.5"/>
+<circle cx="160" cy="86" r="16" fill="#E4ECFF"/>
+<circle cx="154" cy="86" r="6" fill="none" stroke="#FF9F2E" stroke-width="3.5"/>
+<path d="M160 86 H172 M168 86 V91 M172 86 V90" fill="none" stroke="#FF9F2E" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="128" y="112" width="64" height="5" rx="2.5" fill="#E4E8F2" opacity="1"/><rect x="138" y="122" width="44" height="4" rx="2.0" fill="#E4E8F2" opacity="1"/>
+</g>
+<path d="M96 106 V174 A10 10 0 0 0 106 184 H214 A10 10 0 0 0 224 174 V106 L160 148 Z" fill="url(#p)"/>
+<path d="M96 184 L148 140 M224 184 L172 140" stroke="#2A55C9" stroke-width="2" opacity="0.35"/>
+<path d="M104 112 L152 144" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" opacity="0.3"/>
+<circle cx="224" cy="104" r="18" fill="#168B59"/><circle cx="224" cy="100" r="18" fill="url(#g)"/>
+<path d="M216 100 L222 106 L233 95" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M62 150 C78 130 70 110 90 100" fill="none" stroke="#C3CBDA" stroke-width="2" stroke-dasharray="3 5" stroke-linecap="round"/>
+<path d="M44 162 L72 150 L62 176 L56 166 Z" fill="#FFFFFF" stroke="#3B6FEF" stroke-width="2" stroke-linejoin="round"/>
+<path d="M56 166 L72 150 L50 162 Z" fill="#C9D8FF" stroke="#3B6FEF" stroke-width="2" stroke-linejoin="round"/>
+<path d="M262 58 Q262 64 268 64 Q262 64 262 70 Q262 64 256 64 Q262 64 262 58 Z" fill="#FF9F2E"/><path d="M270 145 Q270 150 275 150 Q270 150 270 155 Q270 150 265 150 Q270 150 270 145 Z" fill="#6F95F7"/><circle cx="60" cy="70" r="3" fill="#6F95F7" opacity="0.6"/><circle cx="250" cy="180" r="3" fill="#FF9F2E" opacity="0.8"/>
+</svg>

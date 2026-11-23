@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" role="img" aria-labelledby="t">
+<title id="t">Page not found</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF0FF"/><stop offset="1" stop-color="#F7F9FF"/></linearGradient>
+<linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6F95F7"/><stop offset="1" stop-color="#3B6FEF"/></linearGradient>
+<linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFC766"/><stop offset="1" stop-color="#FF9F2E"/></linearGradient>
+<linearGradient id="ad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF9F2E"/><stop offset="1" stop-color="#E0821A"/></linearGradient>
+<linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF8A80"/><stop offset="1" stop-color="#EF5A5A"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4ADE9B"/><stop offset="1" stop-color="#1FB574"/></linearGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3A4766"/><stop offset="1" stop-color="#1F2940"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6F8FE"/></linearGradient>
+</defs>
+<path d="M58 150 C40 100 76 44 146 38 C214 32 270 60 278 116 C286 172 238 212 170 212 C102 212 74 194 58 150 Z" fill="url(#bg)"/>
+<circle cx="34" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="34" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="34" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="43" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="43" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="43" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="52" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="52" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="52" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="61" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="61" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="61" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/>
+<ellipse cx="160" cy="210" rx="96" ry="8" fill="#26324A" opacity="0.07"/>
+
+<polygon points="74,80 128,68 128,182 74,194" fill="#C9D8FF" opacity="0.4" transform="translate(4 7)"/>
+<polygon points="74,80 128,68 128,182 74,194" fill="#D6E1FB" stroke="#C9D6F5" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="128,68 182,80 182,194 128,182" fill="#FFFFFF" stroke="#C9D6F5" stroke-width="1.5" stroke-linejoin="round"/>
+<polygon points="182,80 236,68 236,182 182,194" fill="#D6E1FB" stroke="#C9D6F5" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M78 96 C92 88 110 92 120 104 C114 120 92 124 80 116 Z" fill="#4ADE9B" opacity="0.45"/>
+<path d="M190 150 C204 140 222 144 230 156 C222 172 200 172 190 162 Z" fill="#4ADE9B" opacity="0.45"/>
+<path d="M74 150 C110 140 120 172 160 160 C190 150 200 176 236 166" fill="none" stroke="#6F95F7" stroke-width="5" opacity="0.3"/>
+<path d="M92 176 C114 162 120 132 150 136 C176 140 186 126 202 110" fill="none" stroke="#26324A" stroke-width="2.5" stroke-dasharray="5 5" stroke-linecap="round"/>
+<circle cx="92" cy="176" r="6" fill="url(#a)" stroke="#FFFFFF" stroke-width="2"/>
+<ellipse cx="206" cy="114" rx="10" ry="3" fill="#26324A" opacity="0.15"/>
+<path d="M206 112 C206 112 186 92 186 78 A20 20 0 0 1 226 78 C226 92 206 112 206 112 Z" fill="#2A55C9" transform="translate(0 4)"/>
+<path d="M206 112 C206 112 186 92 186 78 A20 20 0 0 1 226 78 C226 92 206 112 206 112 Z" fill="url(#p)"/>
+<circle cx="206" cy="78" r="12" fill="#FFFFFF"/>
+<path d="M201 75 A5 5 0 1 1 208 79.5 Q206 81 206 83.5" fill="none" stroke="#3B6FEF" stroke-width="3" stroke-linecap="round"/><circle cx="206" cy="88" r="2.2" fill="#3B6FEF" opacity="1"/>
+<circle cx="262" cy="64" r="17" fill="#FFFFFF" stroke="#E4E8F2" stroke-width="2"/>
+<path d="M262 50 L267 64 L262 78 L257 64 Z" fill="#C3CBDA"/><path d="M262 50 L267 64 H257 Z" fill="#EF5A5A"/><circle cx="262" cy="64" r="2.5" fill="#26324A" opacity="1"/>
+<path d="M54 58 Q54 64 60 64 Q54 64 54 70 Q54 64 48 64 Q54 64 54 58 Z" fill="#FF9F2E"/><path d="M270 151 Q270 156 275 156 Q270 156 270 161 Q270 156 265 156 Q270 156 270 151 Z" fill="#6F95F7"/><circle cx="48" cy="170" r="3" fill="#6F95F7" opacity="0.6"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" role="img" aria-labelledby="t">
+<title id="t">No payslips or documents yet</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EAF0FF"/><stop offset="1" stop-color="#F7F9FF"/></linearGradient>
+<linearGradient id="p" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6F95F7"/><stop offset="1" stop-color="#3B6FEF"/></linearGradient>
+<linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFC766"/><stop offset="1" stop-color="#FF9F2E"/></linearGradient>
+<linearGradient id="ad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF9F2E"/><stop offset="1" stop-color="#E0821A"/></linearGradient>
+<linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF8A80"/><stop offset="1" stop-color="#EF5A5A"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4ADE9B"/><stop offset="1" stop-color="#1FB574"/></linearGradient>
+<linearGradient id="ink" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3A4766"/><stop offset="1" stop-color="#1F2940"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F6F8FE"/></linearGradient>
+</defs>
+<path d="M58 150 C40 100 76 44 146 38 C214 32 270 60 278 116 C286 172 238 212 170 212 C102 212 74 194 58 150 Z" fill="url(#bg)"/>
+<circle cx="34" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="34" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="34" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="43" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="43" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="43" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="52" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="52" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="52" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="61" cy="40" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="61" cy="49" r="1.6" fill="#C3CBDA" opacity="0.7"/><circle cx="61" cy="58" r="1.6" fill="#C3CBDA" opacity="0.7"/>
+<ellipse cx="160" cy="210" rx="96" ry="8" fill="#26324A" opacity="0.07"/>
+
+<rect x="120" y="62" width="56" height="26" rx="8" fill="url(#ad)"/>
+<rect x="120" y="72" width="142" height="98" rx="12" fill="url(#ad)"/>
+<g transform="rotate(9 214 70)"><rect x="186" y="38" width="54" height="70" rx="6" fill="#FFFFFF" stroke="#C3CBDA" stroke-width="1.5" stroke-dasharray="4 3"/></g>
+<g transform="rotate(-6 176 70)">
+<rect x="148" y="32" width="60" height="78" rx="7" fill="url(#card)" stroke="#E4E8F2" stroke-width="1.5"/>
+<rect x="158" y="44" width="24" height="6" rx="3.0" fill="#6F95F7" opacity="1"/><rect x="158" y="58" width="40" height="4" rx="2.0" fill="#E4E8F2" opacity="1"/><rect x="158" y="68" width="32" height="4" rx="2.0" fill="#E4E8F2" opacity="1"/><rect x="158" y="78" width="40" height="4" rx="2.0" fill="#E4E8F2" opacity="1"/>
+<rect x="158" y="90" width="40" height="10" rx="3" fill="#E4ECFF"/></g>
+<path d="M126 98 H258 Q266 98 265 106 L259 164 Q258 172 250 172 H134 Q126 172 125 164 L119 106 Q118 98 126 98 Z" fill="url(#a)"/>
+<rect x="132" y="104" width="122" height="3" rx="1.5" fill="#FFFFFF" opacity="0.45"/>
+<rect x="171" y="128" width="42" height="9" rx="4.5" fill="#FFE2B0"/>
+<rect x="64" y="178" width="44" height="5" fill="#E0821A"/><ellipse cx="86" cy="183" rx="22" ry="7" fill="#E0821A"/><ellipse cx="86" cy="178" rx="22" ry="7" fill="url(#a)"/><rect x="64" y="168" width="44" height="5" fill="#E0821A"/><ellipse cx="86" cy="173" rx="22" ry="7" fill="#E0821A"/><ellipse cx="86" cy="168" rx="22" ry="7" fill="url(#a)"/><rect x="64" y="158" width="44" height="5" fill="#E0821A"/><ellipse cx="86" cy="163" rx="22" ry="7" fill="#E0821A"/><ellipse cx="86" cy="158" rx="22" ry="7" fill="url(#a)"/><rect x="64" y="148" width="44" height="5" fill="#E0821A"/><ellipse cx="86" cy="153" rx="22" ry="7" fill="#E0821A"/><ellipse cx="86" cy="148" rx="22" ry="7" fill="url(#a)"/><ellipse cx="86" cy="148" rx="12" ry="3.5" fill="none" stroke="#E0821A" stroke-width="1.5" opacity="0.7"/>
+<path d="M278 90 Q278 96 284 96 Q278 96 278 102 Q278 96 272 96 Q278 96 278 90 Z" fill="#6F95F7"/><path d="M52 99 Q52 104 57 104 Q52 104 52 109 Q52 104 47 104 Q52 104 52 99 Z" fill="#FF9F2E"/><circle cx="110" cy="48" r="3" fill="#6F95F7" opacity="0.6"/><circle cx="280" cy="160" r="3" fill="#FF9F2E" opacity="0.8"/>
+</svg>
